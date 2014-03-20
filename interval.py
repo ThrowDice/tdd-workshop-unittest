@@ -1,5 +1,6 @@
 import unittest
 
+
 def isInInterval(a, b, n):
     if n < a :
         return False
